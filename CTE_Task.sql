@@ -72,15 +72,3 @@ WITH dept_total AS (
 SELECT d.department,
        d.total_salary
 FROM dept_total d;
-
-
-
-prashant tripathi
-
-anshu 
-
-subhi mishra
-
-
-
-aise hai mere shayam
